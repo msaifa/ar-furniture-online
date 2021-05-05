@@ -33,7 +33,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
                 android:gravity="center_vertical|start"
-                android:text="Item name"
+                android:text="NAMA BARANG"
                 android:textAllCaps="true"
                 android:textSize="20sp"
                 android:textStyle="bold" />

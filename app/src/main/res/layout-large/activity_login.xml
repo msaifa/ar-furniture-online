@@ -16,7 +16,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Welcome to FurnitAR"
+            android:text="Selamat Datang di AR Furnitur"
             android:textColor="#fff"
             android:textSize="50sp" />
 
@@ -41,18 +41,18 @@
                 android:layout_height="80dp"
                 android:layout_margin="30dp"
                 android:background="@drawable/b_style1"
-                android:text="Sign Up"
-                android:textSize="30sp"
-                android:textColor="#fff" />
+                android:text="daftar"
+                android:textColor="#fff"
+                android:textSize="30sp" />
 
             <Button
                 android:layout_width="200dp"
                 android:layout_height="80dp"
                 android:layout_margin="30dp"
                 android:background="@drawable/b_style2"
-                android:text="Learn More"
-                android:textSize="25sp"
-                android:textColor="#fff" />
+                android:text="lebih lanjut"
+                android:textColor="#fff"
+                android:textSize="25sp" />
         </LinearLayout>
 
     </LinearLayout>
@@ -99,11 +99,11 @@
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
                 android:background="@drawable/b_style1"
-                android:drawablePadding="5dp"
                 android:drawableRight="@drawable/ic_send_black_24dp"
-                android:text="Sign In"
-                android:textSize="25sp"
-                android:textColor="#fff" />
+                android:drawablePadding="5dp"
+                android:text="masuk"
+                android:textColor="#fff"
+                android:textSize="25sp" />
 
 
             <com.google.android.gms.common.SignInButton

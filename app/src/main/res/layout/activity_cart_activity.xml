@@ -52,7 +52,7 @@
                     android:id="@+id/total"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Rs.10,00,000"
+                    android:text="Rp.10,00,000"
                     android:textColor="@color/cart"
                     android:textSize="24sp" />
             </LinearLayout>
