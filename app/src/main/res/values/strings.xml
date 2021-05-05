@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FurnitAR</string>
+    <string name="Description">Buy all variants of Furnitures online- with an Augmented Reality ; AR View of it in your place.</string>
+    <string name="title_activity_cart_try">cart_try</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bitch Lasagna</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">Navigate</string>
+    <string name="products">Products</string>
+    <string name="show_cart">Show Cart</string>
+    <string name="log_out">Log Out</string>
+</resources>

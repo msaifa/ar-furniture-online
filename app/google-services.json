@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155220130006",
+    "project_id": "ar-vr-unesa",
+    "storage_bucket": "ar-vr-unesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155220130006:android:0b9e849637e2c8c8d1f177",
+        "android_client_info": {
+          "package_name": "com.msaifa.furnitar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155220130006-i1c56hj9ht167o9blb3a6qrv4s4uq0fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToKkcs5S1_RJFaWtoqTnCOcGkQcsTSvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155220130006-i1c56hj9ht167o9blb3a6qrv4s4uq0fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
