@@ -1,4 +1,4 @@
-package com.msaifa.furnitar;
+package com.msaifa.furnitureonline;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FurnitAR</string>
+    <string name="app_name">Furniture Online</string>
     <string name="Description">Buy all variants of Furnitures online- with an Augmented Reality ; AR View of it in your place.</string>
     <string name="title_activity_cart_try">cart_try</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>

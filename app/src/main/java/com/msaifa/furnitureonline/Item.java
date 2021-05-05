@@ -1,4 +1,4 @@
-package com.msaifa.furnitar;
+package com.msaifa.furnitureonline;
 
 import java.util.ArrayList;
 import java.util.List;

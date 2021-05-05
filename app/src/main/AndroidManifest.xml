@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.msaifa.furnitar">
+    package="com.msaifa.furnitureonline">
 
     <!-- Both "AR Optional" and "AR Required" apps require CAMERA permission. -->
     <uses-permission android:name="android.permission.CAMERA" />
@@ -20,10 +20,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.msaifa.furnitar.MainActivity"
+            android:name="com.msaifa.furnitureonline.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.msaifa.furnitar.Login"
+            android:name="com.msaifa.furnitureonline.Login"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -32,7 +32,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.msaifa.furnitar.splash_activity"
+            android:name="com.msaifa.furnitureonline.splash_activity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -41,10 +41,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.msaifa.furnitar.signUp"
+            android:name="com.msaifa.furnitureonline.signUp"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.msaifa.furnitar.Item_Detail"
+            android:name="com.msaifa.furnitureonline.Item_Detail"
             android:screenOrientation="portrait" />
 
         <meta-data
@@ -55,14 +55,14 @@
             android:value="ca-app-pub-5091759987842562~8434864389" />
 
         <activity
-            android:name="com.msaifa.furnitar.ARactivity"
+            android:name="com.msaifa.furnitureonline.ARactivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.msaifa.furnitar.cart_activity"
+            android:name="com.msaifa.furnitureonline.cart_activity"
             android:screenOrientation="portrait" />
 
         <receiver
-            android:name="com.msaifa.furnitar.internetConnectivity"
+            android:name="com.msaifa.furnitureonline.internetConnectivity"
             android:enabled="true"
             android:exported="true">
             <intent-filter>
@@ -70,7 +70,7 @@
             </intent-filter>
         </receiver>
 
-        <service android:name="com.msaifa.furnitar.HistoryService"></service>
+        <service android:name="com.msaifa.furnitureonline.HistoryService"></service>
 
     </application>
 

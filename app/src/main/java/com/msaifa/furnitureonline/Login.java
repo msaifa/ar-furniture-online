@@ -1,4 +1,4 @@
-package com.msaifa.furnitar;
+package com.msaifa.furnitureonline;
 
 import android.content.Intent;
 import android.content.IntentFilter;

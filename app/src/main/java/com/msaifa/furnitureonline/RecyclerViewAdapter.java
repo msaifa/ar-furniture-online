@@ -1,4 +1,4 @@
-package com.msaifa.furnitar;
+package com.msaifa.furnitureonline;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;

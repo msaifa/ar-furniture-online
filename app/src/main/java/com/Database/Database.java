@@ -10,8 +10,8 @@ import android.util.Pair;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QuerySnapshot;
-import com.msaifa.furnitar.common;
-import com.msaifa.furnitar.order;
+import com.msaifa.furnitureonline.common;
+import com.msaifa.furnitureonline.order;
 import com.readystatesoftware.sqliteasset.SQLiteAssetHelper;
 
 import java.util.ArrayList;
