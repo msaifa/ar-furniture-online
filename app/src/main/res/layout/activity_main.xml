@@ -28,7 +28,7 @@
             android:layout_marginLeft="15dp"
             android:background="@drawable/et"
             android:gravity="start"
-            android:hint="Search for Items..."
+            android:hint="Cari Barang..."
             android:padding="5dp"
             android:textAlignment="center"
             android:textColor="@color/colorPrimary" />
@@ -50,11 +50,11 @@
         android:orientation="horizontal">
 
         <TextView
-            android:textSize="15sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Apply Filters to Products    "
-            android:textColor="@color/colorPrimary" />
+            android:text="Terapkan Filter ke Produk"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15sp" />
 
         <Button
             android:id="@+id/ar_filter"
